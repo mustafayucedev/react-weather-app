@@ -1,0 +1,25 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 90px;
+    padding: 27px 30px 0 32px;
+}
+
+.title strong {
+    font-size: 11px;
+    color: #ffffff;
+}
+
+.icons ul {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.icons ul li svg {
+    font-size: 16px;
+    color: #ffffff;
+}
